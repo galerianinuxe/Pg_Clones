@@ -14,7 +14,7 @@ Para instalar o projeto, siga estas etapas:
 
 Para usar o projeto
 
-1. Abra a pasta com as sources das páginas HTML e edique o que quiser e souber.
+1. Abra a pasta com as sources das páginas HTML e edite o que quiser e souber.
 
 
 ==========================
